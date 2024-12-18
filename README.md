@@ -39,7 +39,6 @@ tqdm
 ## Data Collection
 The script collects data from Wikipedia using:
 - Random article selection
-- Multiple User-Agent rotation for ethical scraping
 - Automatic data saving every 1000 articles
 - Rate limiting with random delays between requests
 
@@ -92,14 +91,6 @@ python wikipedia_scraper.py
 ```python
 python analysis.py
 ```
-
-## Ethical Considerations
-- Implements rate limiting to avoid overwhelming Wikipedia servers
-- Uses rotating User-Agents for ethical scraping
-- Follows Wikipedia's robots.txt guidelines
-
-## Note
-Please ensure you have proper internet connectivity and respect Wikipedia's terms of service when running the scraper.
 
 ## Future Improvements
 - Implementation of more advanced ML models
