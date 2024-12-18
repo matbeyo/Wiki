@@ -2,7 +2,7 @@
 
 ## Project Presentation
 
-Check out my video explanation of this project and its results (in hHebrew):
+Check out my video explanation of this project and its results (in Hebrew):
 
 [Project Overview Video](https://youtu.be/6e0ZFTIg_js)
 
